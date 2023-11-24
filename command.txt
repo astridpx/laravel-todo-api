@@ -1,0 +1,3 @@
+Creating Controller -> php artisan make:controler TodoControler 
+
+Creat Model with migration flag-> php artisan make:model Todo -m
